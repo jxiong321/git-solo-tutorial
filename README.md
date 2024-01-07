@@ -1,2 +1,2 @@
 Git Solo Tutorial Jess Xiong
-Winter 2024 git 
+Winter 2024 git gi
